@@ -1,0 +1,2 @@
+# Pover-T-Tests-Predicting-Poverty---A-DATAMINING-PROJECT
+Harness the power of these data to identify the strongest predictors of poverty? Right now measuring poverty is hard, time consuming, and expensive. By building better models, we can run surveys with fewer, more targeted questions that rapidly and cheaply measure the effectiveness of new policies and interventions. The more accurate our models, the more accurately we can target interventions and iterate on policies, maximizing the impact and cost-effectiveness of these strategies.
